@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F886 -DL -O11111114 -fo4 -N"C:\Users\gomez\odrive\OneDrive IPN\ESCOM\3°\Electronica Analogica\Pic\ACD.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\gomez\odrive\OneDrive IPN\ESCOM\3°\Electronica Analogica\Pic\" -SP"C:\Users\gomez\Desktop\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\gomez\odrive\OneDrive IPN\ESCOM\3°\Electronica Analogica\Pic\" "ACD.c" "ADC.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CString.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_88X.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	ACD.c
+diagnostics: 44	123	Compiled Successfully	ACD.c
+diagnostics: 0	122	Compilation Started	ADC.c
+diagnostics: 44	123	Compiled Successfully	ADC.c
+diagnostics: 0	127	All files Compiled in 172 ms	 
+error: 16	355	Redefinition of 'temperatura [ADC.c] '. 'temperatura' already defined in 'ACD.c'	ADC.c
+error: 17	355	Redefinition of 'lectura [ADC.c] '. 'lectura' already defined in 'ACD.c'	ADC.c
+error: 17	355	Redefinition of 'referencia [ADC.c] '. 'referencia' already defined in 'ACD.c'	ADC.c
+error: 18	355	Redefinition of 'res [ADC.c] '. 'res' already defined in 'ACD.c'	ADC.c
+error: 19	355	Redefinition of 'pantallaTemp [ADC.c] '. 'pantallaTemp' already defined in 'ACD.c'	ADC.c
+error: 0	355	Redefinition of '?ICS_referencia [ADC.c] '. '?ICS_referencia' already defined in 'ACD.c'	ADC.c
+error: 22	355	Redefinition of 'main [ADC.c] '. 'main' already defined in 'ACD.c'	ADC.c
+error: 36	355	Redefinition of 'config [ADC.c] '. 'config' already defined in 'ACD.c'	ADC.c
+error: 0	102	Finished (with errors): 30 may. 2018, 11:58:32	ACD.mcppi
