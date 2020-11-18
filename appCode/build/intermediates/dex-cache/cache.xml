@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a92b33507dcd4e8bcdc15445a61b6cd1fd423c0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Program Files\Android\Android Studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\gson-2.2.4_313aff129984a0a45e086871ec03bfcc02e7284e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.0\931532e953a477f876f2de18c2e7f16eee01078f\constraint-layout-solver-1.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="931532e953a477f876f2de18c2e7f16eee01078f">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.0_a2f7983992513716afc65c8de1c45b829f984f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\.android\build-cache\fc0343b19d3f0e480de6a8a9cac54fb78ec67375\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f46121a7c3b3ba958fc27c39447ae205be23ac4a">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\classes_18b07d98923fbb8402c39d9682fe00b1a6697883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\.android\build-cache\9862e1affb11bbdf88988352330681423cdca5ea\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_bd427be9e36177dd8e85489f6abd9680d8e552b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\.android\build-cache\9862e1affb11bbdf88988352330681423cdca5ea\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\classes_e0ba0d4159f2ef4984928d61cdf27e473c630c6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_0609281abecb53d95567da3dc8607f00aa31e3d5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eea02faa22c6819b41373496b1f8a350524a37d0">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_01a2864ce2af88b92eec4eaf527d264c4ce3a780\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\gomez\.android\build-cache\a9d138a9128ab32e262881c86999a105dfd25dbf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\gomez\Documents\AndroidStudio\BluetoothTerminal-master\app\build\intermediates\pre-dexed\debug\classes_dff45e5c6245d301388da45bf6d56820ca57f061.jar" />
+    </item>
+
+</items>
