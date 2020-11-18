@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SensorDeTemperatura</string>
+    <string name="electr_nica_anal_gica">Electrónica Analógica</string>
+    <string name="sensor_de_temperatura">Sensor de Temperatura</string>
+</resources>
